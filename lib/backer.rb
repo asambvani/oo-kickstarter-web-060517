@@ -17,7 +17,7 @@ class Backer
 
   end
 
-  def add_project(project)
+  def add_from_project(project)
 
     @@backed_projects << project
 
